@@ -15198,6 +15198,4 @@ mesu.apple.com
 ocsp.usertrust.com
 ocsp.digicert.com
 ocsp.webtrust.com
-||mesu.apple.com^$important
-||mesu.apple.com^$important
-||mesu.apple.com^$important
+ocsp2.apple.com
