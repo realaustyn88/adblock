@@ -1,19 +1,5 @@
 
-ocsp.int-x3.letsencrypt.org
-ocsp.apple.com
-world-gen.g.aaplimg.com
-mesu.apple.com
-gdmf.apple.com
 ppq.apple.com
-www.gdmf.apple.com
-iadsdk.apple.com
-oscp.apple.com
-googleads.g.doubleclick.net
-googletagservices.com
-stats.g.doubleclick.net
-adclick.g.douclick.net
-http://ffapple.com
-oscp.apple.com
+ocsp.apple.com
 ocsp2.apple.com
-
-￼
+certs.apple.com
